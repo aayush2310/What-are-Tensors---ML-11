@@ -1,0 +1,13 @@
+Tensor is a data structure-->a way of storing data.
+ML library(sklearn,tensorflow)-->use the ds of tensor.
+Tensor is used in ML and DL.
+Google-ML lib-->Tensorflow-->Name placed on tensor.
+Tensor is a container for storing numbers.(sometimes we store characters and string also but rarely)
+
+Vectors and matrices are basically tensors-->if they are of 0 dimension then they are scalers.
+list->vector
+2D->matrix
+3D and above->Tensors
+
+Axis of a tensor=dimension of the tensor=rank
+
