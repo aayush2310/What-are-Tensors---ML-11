@@ -1,0 +1,13 @@
+//scaler
+import numpy as np
+a=np.array(4)
+a
+a.ndim
+
+//1D tensor
+
+arr=np.array([1,2,3,4])
+arr
+arr.ndim
+
+8:24
